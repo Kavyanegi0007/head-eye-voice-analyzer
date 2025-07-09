@@ -1,0 +1,14 @@
+{
+  
+  "eye_ratio_left_threshold": 0.40,
+  "eye_ratio_right_threshold": 0.55,
+    "eye_ratio_up_threshold": 0.35,
+  "eye_ratio_down_threshold": 0.65,
+  "head_yaw_left_threshold": -10,
+  "head_yaw_right_threshold": 10,
+  "head_pitch_down_threshold": -8,
+  "head_pitch_up_threshold": 5,
+  "audio_threshold": 0.035
+ 
+}
+
